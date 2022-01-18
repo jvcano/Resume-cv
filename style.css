@@ -30,7 +30,7 @@ body {
   width: 800px;
   height: auto;
   display: flex;
-  margin: 50px auto;
+  margin: 30px auto;
 }
 
 .resume .resume_left {
@@ -116,7 +116,7 @@ body {
 }
 
 .resume .resume_left .resume_skills ul li .skill_name {
-  width: 25%;
+  width: 30%;
 }
 
 .resume .resume_left .resume_skills ul li .skill_progress {
@@ -128,7 +128,7 @@ body {
 }
 
 .resume .resume_left .resume_skills ul li .skill_per {
-  width: 15%;
+  width: 20%;
 }
 
 .resume .resume_left .resume_skills ul li .skill_progress span {
